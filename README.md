@@ -1,2 +1,2 @@
 # $W^{I/II}$ code
-I follow the paper in . Note that this code works for a general lattice, especially for the case of the effective chain approximating an infinite Hamiltonian.
+This code is based on the algorithm in https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.165112. Note that this code works for a general lattice, especially for the case of the effective chain approximating an infinite Hamiltonian.
