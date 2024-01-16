@@ -1,2 +1,2 @@
-# W_I-II code
+# $W^{I/II}$ code
 I follow
